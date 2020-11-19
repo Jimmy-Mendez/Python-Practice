@@ -1,3 +1,4 @@
-import numpy
+import pyautogui
 
-print("hello")
+while True:
+    pyautogui.click(pyautogui.position())
