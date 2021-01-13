@@ -7,6 +7,17 @@ def isPrime(number):
         i+=1
     return 1
 
+def primeFactors(number):
+    if (isPrime(number) == 1 ):
+        ans = [1,number]
+        print(ans)
+    i = 2
+    if (isPrime(i)):
+
+
+
+
+
 while(1):
 
     num = int (input("Enter a number: "))
