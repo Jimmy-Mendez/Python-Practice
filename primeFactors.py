@@ -1,4 +1,3 @@
-
 def isPrime(number):
     i = 2
     while i < number:
